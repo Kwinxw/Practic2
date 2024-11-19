@@ -1,0 +1,11 @@
+﻿<Window x:Class="Практика2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Главное окно" Height="200" Width="600" Background="Black">
+    <StackPanel>
+        <Button Content="Переводчик" Click="OpenTranslatorWindow" Margin="10" Background="#FF909090"/>
+        <Button Content="Калькулятор" Click="OpenCalculatorWindow" Margin="10" Background="#FF909090"/>
+        <Button Content="Проверка диапазона" Click="OpenNumberRangeWindow" Margin="10" Background="#FF909090"/>
+        <Button Content="Пароль" Click="OpenPasswordWindow" Margin="10" Background="#FF909090"/>
+    </StackPanel>
+</Window>

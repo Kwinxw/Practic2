@@ -1,0 +1,44 @@
+C:\Users\user\Desktop\Star\Практика2\bin\Debug\Практика2.exe.config
+C:\Users\user\Desktop\Star\Практика2\bin\Debug\Практика2.exe
+C:\Users\user\Desktop\Star\Практика2\bin\Debug\Практика2.pdb
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\Практика2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\CalculatorWindow.baml
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\NumberRangeWindow.baml
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\PasswordWindow.baml
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\TranslatorWindow.baml
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\CalculatorWindow.g.cs
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\NumberRangeWindow.g.cs
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\PasswordWindow.g.cs
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\TranslatorWindow.g.cs
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\Практика2_MarkupCompile.cache
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\Практика2.g.resources
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\Практика2.Properties.Resources.resources
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\Практика2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\Практика2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\Практика2.exe
+C:\Users\user\Desktop\Star\Практика2\obj\Debug\Практика2.pdb
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\bin\Debug\Практика2.exe.config
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\bin\Debug\Практика2.exe
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\bin\Debug\Практика2.pdb
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\Практика2.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\CalculatorWindow.baml
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\MainWindow.baml
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\NumberRangeWindow.baml
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\PasswordWindow.baml
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\TranslatorWindow.baml
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\CalculatorWindow.g.cs
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\MainWindow.g.cs
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\NumberRangeWindow.g.cs
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\PasswordWindow.g.cs
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\TranslatorWindow.g.cs
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\App.g.cs
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\Практика2_MarkupCompile.cache
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\Практика2.g.resources
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\Практика2.Properties.Resources.resources
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\Практика2.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\Практика2.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\Практика2.exe
+C:\Users\user\Desktop\Вадим Старков\Vad\Practic2\src\obj\Debug\Практика2.pdb
